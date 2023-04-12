@@ -1,4 +1,4 @@
-##Step-by-step guide how to implement creating a Snippet in a Page with using django-autocomplete-light widget
+## Step-by-step guide how to implement creating a Snippet in a Page with using django-autocomplete-light widget
 
 ## Requirements
 
